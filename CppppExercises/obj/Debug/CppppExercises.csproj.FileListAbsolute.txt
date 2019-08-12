@@ -1,0 +1,7 @@
+C:\Users\XPGram\source\repos\CppppExercises\CppppExercises\bin\Debug\CppppExercises.exe.config
+C:\Users\XPGram\source\repos\CppppExercises\CppppExercises\bin\Debug\CppppExercises.exe
+C:\Users\XPGram\source\repos\CppppExercises\CppppExercises\bin\Debug\CppppExercises.pdb
+C:\Users\XPGram\source\repos\CppppExercises\CppppExercises\obj\Debug\CppppExercises.csprojAssemblyReference.cache
+C:\Users\XPGram\source\repos\CppppExercises\CppppExercises\obj\Debug\CppppExercises.csproj.CoreCompileInputs.cache
+C:\Users\XPGram\source\repos\CppppExercises\CppppExercises\obj\Debug\CppppExercises.exe
+C:\Users\XPGram\source\repos\CppppExercises\CppppExercises\obj\Debug\CppppExercises.pdb
